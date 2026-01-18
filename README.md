@@ -107,13 +107,8 @@ The program is implemented in one C++ source file and organized as follows:
 
 ## License
 
-- This code currently has no explicit license. If you plan to share or publish the repository, add a LICENSE file (e.g., MIT, Apache-2.0) to declare usage terms.
+- This code currently has no explicit license.
 
----
 
-If you want, I can:
-- Generate a split project layout with header/source files,
-- Add a CMakeLists.txt for building with CMake,
-- Convert console colors to ANSI escape codes for cross-platform compatibility.
 
 ```
